@@ -1,0 +1,2 @@
+# faq
+GraphQL FAQ
