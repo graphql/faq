@@ -1,5 +1,5 @@
 ---
-question: "Do I need _schema stiching_?"
+question: "Do I need _schema stitching_?"
 draft: true
 ---
 
